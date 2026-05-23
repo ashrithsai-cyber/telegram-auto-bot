@@ -2,8 +2,8 @@ import requests
 import random
 from datetime import datetime
 
-BOT_TOKEN = "8802477809:AAHB1lAk9uPBnghWFfYKM-6-ioL0qC02vhI"
-CHAT_ID = "-1003931447295"
+BOT_TOKEN = "8382452256:AAGGchwmfh5_LFd8IvWpx68SoD2sWxQ85x8"
+CHAT_ID = "7564807530"
 
 messages = [
 
